@@ -1,4 +1,24 @@
-# Hello_World
-BAIS:3050 Getting Started Repository
+# Contents
+- [Project Title](#Project-Title)
+- [Description](#Description)
+- [How To Run Program](#How-to-run-program)
+- [Files Used](#files-used)
+- [Additional Documentation](#additional-documentation)
+- [Versioning](#versioning)
 
-I am Ben Kyllingstad, a BAIS Major at the University of Iowa. I really enjoy basketball and video games. 
+# ***Project Title*** 
+ ```diff
+- BAIS 3050 GitHub Setup 
+```
+
+# ***Description***
+ ```diff
+- Sample Repository for GitHub Setup Assignment 
+```
+# ***How to Run Program***
+
+# ***Files Used***
+
+# ***Additional Documentation***
+
+# ***Versioning***
